@@ -27,9 +27,7 @@ Chrome提供了丰富的插件，这是Chrome最实用，最吸引人的地方�
 
 ![Free Download Manager：免费下载管理器的浏览器插件](https://upload-images.jianshu.io/upload_images/5863464-a8c4cbef6769b9ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-一个免费的，支持BT磁力下载的软件。
-
-使用插件前，要在电脑上下载安装[客户端](http://www.freedownloadmanager.org/zh/download.htm)，插件只是用于唤起客户端。
+一个免费的，支持BT磁力下载的软件。使用插件前，要在电脑上下载安装[客户端](http://www.freedownloadmanager.org/zh/download.htm)，插件只是用于唤起客户端。
 
 
 ## 5、[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon)
@@ -56,7 +54,7 @@ Chrome提供了丰富的插件，这是Chrome最实用，最吸引人的地方�
 可下载视频网站当前页面正在播放的未加密的视频。
 
 ## 安装插件方式
-有梯子的小伙伴直接点击插件名下载安装，[Chrome网上应用店](https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon)下载更多插件。
+有梯子的小伙伴直接点击插件名下载安装，[Chrome网上应用店](https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon)可下载更多插件。
 
 没有梯子的小伙伴按下面步骤安装：
 
@@ -66,5 +64,5 @@ Chrome提供了丰富的插件，这是Chrome最实用，最吸引人的地方�
 
 ![安装离线版OneTab](https://upload-images.jianshu.io/upload_images/5863464-d4b849bdff76733a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-[插件网](http://www.cnplugins.com/)下载更多插件，需要梯子的小伙伴请看[这](https://github.com/DeppWang/ShadowsocksR-download)。
+可在[插件网](http://www.cnplugins.com/)下载更多插件，如需要梯子请看[这](https://github.com/DeppWang/ShadowsocksR-download)。
 
