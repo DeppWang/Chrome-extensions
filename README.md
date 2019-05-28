@@ -1,4 +1,4 @@
-Chrome提供了丰富的插件，这是Chrome最实用，最吸引人的地方。国内由于某些原因，不能直接下载使用，下面是Chrome常用的几个插件介绍，安装方式在文末。
+Chrome提供了丰富的插件，这是Chrome最实用，最吸引人的地方。国内由于某些原因，不能直接下载使用，下面是Chrome常用的几个插件介绍，**安装方式在文末**。
 
 ## 1、[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) [`下载`](https://raw.githubusercontent.com/deppwang/Chrome-extensions/master/OneTab_v1.18.crx)
 
